@@ -3,5 +3,5 @@ A Powershell script for printing entire folders of PPTX or DOCX files. The scrip
 Tips:
 - Set default printer before use.
 - Have a script ready to force the script to stop after all documents are printed. 
-- Copy and add your folder's address before use.
+- Copy and add your folder's address before use. ($folderPath = "")
 - A color printer is required for PPTX files with images. 
